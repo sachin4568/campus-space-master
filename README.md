@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="top"></a>
 <center>
 <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Campus+Space"> 
@@ -101,3 +102,6 @@ To run this project, you will need to add the following environment variables to
 
 
 <p align="right"><a href="#top">Back to top</a></p>
+=======
+# campus-space-master
+>>>>>>> dece57b5bb424675d76dd3e5d3080812da9ee1eb

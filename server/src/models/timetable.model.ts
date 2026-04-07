@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+git branch -M mainimport mongoose from "mongoose";
 
 interface TimeTableInterface extends mongoose.Document {
   course: string;
